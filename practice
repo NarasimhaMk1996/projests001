@@ -3,3 +3,4 @@ how to create a docker image
 2. Build the image with "docker build" command
 3. host your docker image on a registry
 4. pull and run the image on target machine
+5.create
