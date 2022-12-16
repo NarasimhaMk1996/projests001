@@ -1,0 +1,5 @@
+how to create a docker image 
+1. Write a docker file on your aplication[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[[C[C[C[Cfile for[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+2. Build the image with "docker build" command
+3. host your docker image on a registry
+4. pull and run the image on target machine
